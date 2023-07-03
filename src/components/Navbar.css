@@ -1,0 +1,15 @@
+h5{
+    margin-top: 6px;
+    margin-right: 10px;
+    color: blueviolet;
+}
+.dropdown-item{
+    background-color:rgb(145, 89, 145);
+    color:white; 
+}
+.navbar-nav{
+    color: white;
+}
+.logo{
+    width: 4%;
+}
